@@ -1,0 +1,15 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is A000-234B
+
+ Directory of C:\Users\testuser\Desktop\JavaProject2
+
+02/03/2018  09:03 AM    <DIR>          .
+02/03/2018  09:03 AM    <DIR>          ..
+02/03/2018  07:51 AM               471 Hello.class
+02/02/2018  11:47 PM               147 Hello.java
+02/03/2018  09:03 AM                 0 read.txt
+02/03/2018  07:08 AM               572 readme.txt
+02/03/2018  05:57 AM               678 Saturday.class
+02/03/2018  05:55 AM               143 Saturday.java
+               6 File(s)          2,011 bytes
+               2 Dir(s)  106,758,635,520 bytes free
